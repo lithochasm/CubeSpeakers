@@ -1,6 +1,8 @@
 # CubeSpeakers
 3D Printed Cube 2 way speaker enclosure
 
+![Cube Speaker Image](CubeSpeaker.jpeg?raw=true "Cube Speaker")
+
 Woofer 
 - Dayton Audio DSA90-8 3" Designer Series Aluminum Cone Full-Range Driver 8 Ohm
 - https://www.parts-express.com/dayton-audio-dsa90-8-3-designer-series-aluminum-cone-full-range-driver-8-ohm--295-522
